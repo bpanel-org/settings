@@ -1,6 +1,6 @@
 {
   "name": "@bpanel/settings",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "A settings panel for bPanel. Uses widget areas to allow other plugins to hook in and add their own settings pane.",
   "main": "dist/index.js",
   "scripts": {
